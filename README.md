@@ -1,2 +1,2 @@
 # Free-Electron-Modelling
-Solutions to modified rate equations from authors E.G. Gamaly and B.C. Stuart on the topic of free electric density in a plasma created via laser ablation of fused silica. 
+Solutions to modified rate equation proposed by author B.C. Stuart on the topic of free electric density in a plasma created via laser ablation of fused silica. Goal was to figure out accuracy of assuming constant mass density in plasma created by 350fs pulse. Because plasma expands in free space the mass density of the plasma will decrease, this increases the difficulty in modelling the free electron density in plasma as a function of time, by assuming a fixed mass density the required calculations get greatly simplified.  
